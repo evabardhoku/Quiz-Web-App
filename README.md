@@ -33,3 +33,6 @@ Professors can create and manage courses, topics, questions, and lecture PDFs, w
 2. Students enroll in courses and take quizzes per topic & difficulty.
 3. The platform calculates scores instantly and stores progress.
 4. Professors can view analytics and detailed attempts for enrolled students.
+
+   <img width="923" height="410" alt="image" src="https://github.com/user-attachments/assets/e10032ce-669c-40d0-8f03-03bdc4c7c3b0" />
+
