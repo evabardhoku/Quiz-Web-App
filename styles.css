@@ -1,0 +1,39 @@
+
+.card {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.quiz-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #333;
+}
+
+.btn {
+    background-color: #0066cc;
+    color: #fff;
+    text-decoration: none;
+    padding: 0.4rem 0.8rem;
+    border-radius: 6px;
+    margin-right: 0.5rem;
+    font-size: 0.9rem;
+    transition: background 0.2s;
+}
+
+.btn:hover {
+    background-color: #0052a3;
+}
+
+.delete-btn {
+    background-color: #cc3333;
+}
+
+.delete-btn:hover {
+    background-color: #a60000;
+}
+
